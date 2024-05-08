@@ -1,0 +1,11 @@
+node_modules
+/node_modules
+./node_modules
+
+env
+.env
+./env
+
+dev-wallet.json
+/dev-wallet.json
+./dev-wallet.json
